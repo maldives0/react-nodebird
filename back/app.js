@@ -77,6 +77,6 @@ app.use('/hashtag', hashtagRouter);
 //     //에러 처리 미들웨어를 특별하게 보이도록 하고 싶을 때 따로 만들어주기
 
 // });
-app.listen(80, () => {
+app.listen(3065, () => {
     console.log('서버 실행 중');
 });
